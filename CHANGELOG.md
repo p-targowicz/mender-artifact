@@ -1,4 +1,12 @@
 ---
+## 4.4.2 - 2026-08-25
+
+
+### Bug fixes
+
+- *(cli)* Improve --script flag help text and error messages
+- *(cli)* Resolve symlinks against their own directory when signing
+
 ## 4.4.1 - 2026-07-08
 
 
